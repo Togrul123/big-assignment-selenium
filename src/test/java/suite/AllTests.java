@@ -7,6 +7,7 @@ import org.junit.platform.suite.api.Suite;
 @SelectClasses({
     tests.LoginTest.class,
     tests.LogoutTest.class,
+    tests.ContactUsTest.class,
     tests.StaticPageTest.class,
     tests.ComplexXPathTest.class,
     tests.HistoryTest.class,
